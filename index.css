@@ -18,6 +18,9 @@ body{
     text-shadow: black 0 0 2px;
 }
 
+.header h1 span{
+    display: none;
+}
 
 .footer{
     width: 100%;
